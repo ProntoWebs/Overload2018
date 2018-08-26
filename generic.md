@@ -14,7 +14,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Ultimas noticias</h2>
 		</header>
-				<p>Nuestros amigos de ProntoWebs, nos tentran actualizados por medio de su red social Twitter con lo ultimo en cada una de las diferentes areas, no dejes de revisar y estar al tanto de los mejores eventos.</p>
+				<p>Mantente actualizado via twitter.</p>
 <a class="twitter-timeline" href="https://twitter.com/WebsPronto?ref_src=twsrc%5Etfw">Tweets by WebsPronto</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 	
 	</div>
 </section>
