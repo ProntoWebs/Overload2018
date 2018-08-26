@@ -33,7 +33,7 @@ nav-menu: true
 					<h3>Cronograma</h3>
 				</header>
 				<!--<p>Revisa el cronograma de este pabellon.</p>-->
-				No fue facilitado
+				<iframe width="100%" height="600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTYsT2GAWYbnv1x1KlJKgDveig0eKMNJuvk6mDuM6K7z27ndB_TJT1NBgxmD0laJSr72F4okWr-EitF/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 				<!--<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>-->
