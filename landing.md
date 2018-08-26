@@ -32,7 +32,7 @@ nav-menu: true
 					<h3>Cronograma</h3>
 				</header>
 				<!--<p>Revisa el cronograma de este pabellon.</p>-->
-				No fue facilitado
+				<iframe width="100%" height="600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRf4-1ucQWxwQpV_Fu9jVk4Hr05K17qvSsXQwPjCtGORAh3Gg70JCW02HskAlAb6LXk1XLZqqUR5GJp/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 				<!-- <iframe width="100%" height="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRk72JjOzSuNkcFQP73CR9B8RbYM_J1sS7DJU4ICGJwa9qUVWeFuXMN99vr-REsCfqoosydzsmXtIJH/pubhtml?widget=true&amp;headers=false"></iframe> -->
 				<!--<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
