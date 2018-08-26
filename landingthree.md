@@ -1,10 +1,12 @@
 ---
+title: Plaza de Comidas
 layout: landing
-title: Área Cómics y Cultura
-description: Ilustración digital, artistas nacionales y animación.
-image: assets/images/pcomicsycultura.jpg 
+description: 'Platos orientales, comida rápida y música en vivo.'
+image: assets/images/pcomida.jpg
 nav-menu: true
 ---
+
+
 <!-- Main -->
 <div id="main">
 
@@ -14,7 +16,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Ultimas noticias</h2>
 		</header>
-				<p>Nuestros amigos de ProntoWebs, nos tentran actualizados por medio de su red social Twitter con lo ultimo en cada una de las diferentes areas, no dejes de revisar y estar al tanto de los mejores eventos.</p>
+		<p>Nuestros amigos de ProntoWebs, nos tentran actualizados por medio de su red social Twitter con lo ultimo en cada una de las diferentes areas, no dejes de revisar y estar al tanto de los mejores eventos.</p>
 <a class="twitter-timeline" href="https://twitter.com/WebsPronto?ref_src=twsrc%5Etfw">Tweets by WebsPronto</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 	
 	</div>
 </section>
@@ -23,7 +25,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/draw.jpg" alt="" data-position="center center" />
+			<img src="assets/images/food1.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<!--<div class="inner">-->
@@ -31,8 +33,7 @@ nav-menu: true
 					<h3>Cronograma</h3>
 				</header>
 				<!--<p>Revisa el cronograma de este pabellon.</p>-->
-				No fue facilitado.
-				<!--<iframe width="100%" height="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRk72JjOzSuNkcFQP73CR9B8RbYM_J1sS7DJU4ICGJwa9qUVWeFuXMN99vr-REsCfqoosydzsmXtIJH/pubhtml?widget=true&amp;headers=false"></iframe>-->
+				No fue facilitado
 				<!--<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>-->
@@ -43,7 +44,7 @@ nav-menu: true
 	
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/wolv.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/food2.jpeg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -80,5 +81,3 @@ nav-menu: true
 </section>
 Three -->
 </div>
-
-
